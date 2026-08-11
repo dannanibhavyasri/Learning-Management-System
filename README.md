@@ -14,3 +14,7 @@ A basic web-based Learning Management System designed for students to explore co
 - Quizzes
 - Progress overview
 - Simple and user-friendly interface
+
+ ## Live Demo
+
+[View Live Website](https://dannanibhavyasri.github.io/Learning-Management-System/)
